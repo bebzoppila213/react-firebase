@@ -1,0 +1,15 @@
+.todo-img {
+    max-width: 100px;
+}
+
+.todo-row:hover {
+    background-color: #0d6efd;
+    cursor: pointer;
+    color: #fff;
+    transition: all 0.2s;
+}
+
+.modal--open {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.4);
+}
